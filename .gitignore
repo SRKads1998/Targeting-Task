@@ -8,6 +8,10 @@ data/
 # C extensions
 *.so
 
+# sensitive output files
+
+outputs/*.gpkg
+
 # Distribution / packaging
 .Python
 build/
